@@ -38,6 +38,6 @@ distribute the resulting work only under the same or similar license to
 this one.Alike Noncommercial Attribution 
 
 ## Donation
-If you like Flux and you want to donate Bitcoins, just visit my webpage:
+If you like Flux and you want to donate Bitcoins just use this address:
 
     * Bitcoin: 1Q6LJfuFx57c4cgxzrmwJtArPPwHJEjBFG

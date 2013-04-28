@@ -7,19 +7,19 @@ with other operationg systems, too. Please contact me if you are about
 to design a version for another OS. I would like to have all OS
 versions within this git repository at Github:
 
-    * https://github.com/tr37ion/flux
+https://github.com/tr37ion/flux
 
 Screenshot:
 
-    * http://iviac.deviantart.com/art/FLUX-Opera-skin-preview-366825033
+http://iviac.deviantart.com/art/FLUX-Opera-skin-preview-366825033
 
 ## Install
-    * Copy the zip file to your .opera/skins/ folder and re/start Opera.
-    * You should change the mail background color by changing the
-      "Background Color" settings of the "Webpages" section in Opera's
-      preferences dialog.
-    * (optional) go to "opera:config" and change the following settings:
-         - "Color List Row Mode" = "2"
+ * Copy the zip file to your .opera/skins/ folder and re/start Opera.
+ * You should change the mail background color by changing the
+   "Background Color" settings of the "Webpages" section in Opera's
+   preferences dialog.
+ * (optional) go to "opera:config" and change the following settings:
+   - "Color List Row Mode" = "2"
 
 ## License
 FLUX is licensed under a Creative Commons
